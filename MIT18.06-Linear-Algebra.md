@@ -1,3 +1,10 @@
+- [Lecture 1](#lecture-1)
+- [Lecture 2](#lecture-2)
+- [Lecture 3](#lecture-3)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Lecture 1 ##
 
 Teacher：Professor Gilbert Strang  
