@@ -42,7 +42,7 @@ Example two: (three by three system)
 * Each row multiply a column (dot product);  
 
 
-## Lecture 2 (back-substitution/elimination/multiplication) ##    
+## Lecture 2 (back-substitution/elimination消元法/multiplication) ##    
 
 Test:Elimination to solve equation
 
@@ -52,21 +52,15 @@ Test:Elimination to solve equation
 
 Ax=b example  
 
-| 1 2 1 |             
-| 3 8 1 | = A          
-| 0 4 1 |                            
+![](矩阵1.png) Matrix A                         
      
 **Matrix operation**
 
-| 1 2  1 |                                    
-| 0 2 -2 |  
-| 0 4  1 |  
+![](矩阵2.png)
 
 **Matrix operation**
 
-| 1 2  1 |  
-| 0 2 -2 |  = U  
-| 0 0  5 | 
+![](矩阵3.png) Matrix U
 
 * The purpose of elimination is to knock out ‘x’part;  
 * The first number of the first row(num‘1’) we call the (first)pivot;   
@@ -75,16 +69,11 @@ Ax=b example
 
 * Failure ：if the first num was 0,we can exchange the row and then we make elimination（0 can't not be pivot）;    
 * Augmented matrix(has column 'b')；  
-* Back-Substitution：a simple step solving the equation in reverse order because the system is upper triangular；
+* Back-Substitution（回代）：a simple step solving the equation in reverse order because the system is upper triangular；
 
+![](矩阵3.png) Matrix U     
 
-| 1 2  1 |       
-| 0 2 -2 |  = U    
-| 0 0  5 |        
-
-| 1 2  1   2|  
-| 0 2 -2   6| = c  
-| 0 0  5  10|  
+![](矩阵4.png) Matrix C  
 
 **z=-2;y=1;x=2**
 
@@ -106,10 +95,29 @@ example :
 * E21 mean its the matrix we needed to get 21 position to be 0;  
 * **Mutiplier on left doing row operation，mutiplier on right doing column operation**  
 * Can't exchange order of these (mutiplied)matrices ，but can move the parentheses；  
-
-Inverses  
-E-1(inverse)*E=I（identity）
+* Permutation：  exchange row and column；		
+* Inverses：E-1(inverse)*E=I（identity）
 
 ## Lecture 3 ##
 
+* Matrix multiplication(4 ways!?)
+* Inverse of A AB AT
+* Gauss-Jordan/find A-1
 
+* The condition if two matrices can be multipled；（m x n and n x p）
+* Three ways to multiple two matrices ：AB=C
+	1.  C34 equal row3 of A multiple Colum4 of B;
+	1.  several columns multipling by A； **[A]\*[|||]=[|||]**
+		* matrix C can be regard as combinations of these columns；
+	* From the row view;
+	* The fourth way to multiple a two matrices as belows；（combination of vectors）	
+	* The Firth Multiple by blocks；(A1/A2/A3/A4 with B1/B2/B3/B4)
+- ![](矩阵5.png)  
+	* all rows are in the same direction；
+	* all columns are in the same direction；
+* Inverses(invertible or non-singular)	
+* No Inverses(or singular) 	**can find a vector X with Ax=0**	
+* Gauss-Jordan（slove 2 equstion at once）
+	* Gauss
+	* Jordan
+* EA=I tell us "E=A-1"；
