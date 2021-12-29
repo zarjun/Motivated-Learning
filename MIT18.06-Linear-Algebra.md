@@ -54,9 +54,11 @@ Ax=b example
 ![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix1.png) Matrix A                         
      
 **Matrix operation**
+
 ![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix2.png)
 
 **Matrix operation**
+
 ![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix3.png)Matrix U
 
 * The purpose of elimination is to knock out ‘x’part;  
@@ -67,7 +69,9 @@ Ax=b example
 * Failure ：if the first num was 0,we can exchange the row and then we make elimination（0 can't not be pivot）;    
 * Augmented matrix(has column 'b')；  
 * Back-Substitution（回代）：a simple step solving the equation in reverse order because the system is upper triangular；
+
 ![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix3.png) Matrix U     
+
 ![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix4.png) Matrix C  
 
 **z=-2;y=1;x=2**
