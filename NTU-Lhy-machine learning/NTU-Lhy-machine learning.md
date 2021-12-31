@@ -1,4 +1,6 @@
 - [Lecture 1  (introduction)](#lecture-1)
+- [Lecture 2  (liner regression/Model/Result/Error)](#lecture-2)
+- [Lecture 3 (Bias/Variance)](#lecture-3) 
 
 ## Lecture 1 (introduction) 
 
