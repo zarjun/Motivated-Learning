@@ -51,15 +51,15 @@ Test:Elimination to solve equation
 * Matrix multiplication
 
 Ax=b example  
-![](\picture\matrix1.png) Matrix A                         
+![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix1.png) Matrix A                         
      
 **Matrix operation**
 
-![](\picture\matrix2.png)
+![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix2.png)
 
 **Matrix operation**
 
-![](\picture\matrix3.png)Matrix U
+![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix3.png)Matrix U
 
 * The purpose of elimination is to knock out ‘x’part;  
 * The first number of the first row(num‘1’) we call the (first)pivot;   
@@ -70,9 +70,9 @@ Ax=b example
 * Augmented matrix(has column 'b')；  
 * Back-Substitution（回代）：a simple step solving the equation in reverse order because the system is upper triangular；
 
-![](\picture\matrix3.png) Matrix U     
+![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix3.png) Matrix U     
 
-![](\picture\matrix4.png) Matrix C  
+![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix4.png) Matrix C  
 
 **z=-2;y=1;x=2**
 
@@ -111,7 +111,7 @@ example :
 	* From the row view;
 	* The fourth way to multiple a two matrices as belows；（combination of vectors）	
 	* The Firth Multiple by blocks；(A1/A2/A3/A4 with B1/B2/B3/B4)
-- ![](\picture\matrix5.png)  
+- ![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix5.png)  
 	* all rows are in the same direction；
 	* all columns are in the same direction；
 * Inverses(invertible or non-singular)	
