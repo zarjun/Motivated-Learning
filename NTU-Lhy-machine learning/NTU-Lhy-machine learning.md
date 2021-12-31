@@ -1,8 +1,8 @@
-- [Lecture 1  (introduction)](#lecture-1)
-- [Lecture 2  (liner regression/Model/Result/Error)](#lecture-2)
+- [Lecture 1 (introduction)](#lecture-1)
+- [Lecture 2 (liner regression/Model/Result/Error)](#lecture-2)
 - [Lecture 3 (Bias/Variance)](#lecture-3) 
 
-## Lecture 1 (introduction) 
+## Lecture 1
 
 Teacher：Professor 李宏毅    
 Exercise/Matlab/syllbus/video: **[http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)**
@@ -26,7 +26,7 @@ Exercise/Matlab/syllbus/video: **[http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML
 
 ![](/picture/introduction.png)
 
-## Lecture 2 (liner regression/Model/Result/Error) 
+## Lecture 2
 
 1. Model；
 2. Goodness of Function；
@@ -51,7 +51,7 @@ Exercise/Matlab/syllbus/video: **[http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML
 	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/gradientglobal.png)；
 	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/complicatedmodel.png)；	
 
-## Lecture 3 (Bias/Variance) 
+## Lecture 3
 
 1. Bias and Variance of Estimator；(s^2估测σ^2)bias就是你瞄的时候就没有瞄准，variance就是你子弹出膛之后仍然会有偏差；	
 2. 很直觉：简单的model实际上受到data的影响反而更小，即variance更小；		
