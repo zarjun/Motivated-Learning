@@ -1,5 +1,5 @@
-- [Lecture 1  (equations/column picture/matrix)](#lecture-1)
-- [Lecture 2  (back-substitution/elimination/multiplication)](#lecture-2)
+- [Lecture 1  		(equations/column picture/matrix)](#lecture-1)
+- [Lecture 2  		(back-substitution/elimination/multiplication)](#lecture-2)
 - [Lecture 3		(multiple/inverse)](#lecture-3)
 
 
