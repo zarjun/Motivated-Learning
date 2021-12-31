@@ -22,7 +22,7 @@ Exercise/Matlab/syllbus/video: **[http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML
 * Meta Learning (能够自己学习“如何学习”，当今的学习其实不算特别有效，但是不是由于人类自身的限制呢？所以思考着能否用人工智慧自己来训练自己的学习方法)；		
 * Life-Long Learning (解决一连串问题);
 
-![](\picture\introduction.png)
+![](/picture/introduction.png)
 
 ## Lecture 2 (liner regression/Model/Result/Error) 
 
@@ -45,9 +45,9 @@ Exercise/Matlab/syllbus/video: **[http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML
 2. Regularization(想要一个比较平滑的函数)
 
 
-	* ![](\picture\gradient.png)；
-	* ![](\picture\gradientglobal.png)；
-	* ![](\picture\complicatedmodel.png)；	
+	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/gradient.png)；
+	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/gradientglobal.png)；
+	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/complicatedmodel.png)；	
 
 ## Lecture 3 (Bias/Variance) 
 
@@ -58,13 +58,5 @@ Exercise/Matlab/syllbus/video: **[http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML
 5. Data的数量增加一般都能够降低variance(**假如没办法搜集？**或使用Regularization的方法将曲线平滑但这可能无法兼顾bias)		
 6. Training Set(Training Set 训练模型 + Validation Set 选模型)//Testing Set(public)//Testing Set(private)。如果将Training Set的model apply to Testing Set发现error太大之后，你还回去修改的话，那么其实你最终的模型就无法很好地反映private Testing Set；	
 7. 	
-
-	* ![](\picture\biasandvariance.png)		=====================================================================			
-	* ![](\picture\underfittingoverfitting.png)	=====================================================================				
-	* ![](\picture\TestingSet.png)									
-	* =====================================================================				
-	* ![](\picture\validation.png)				
-
-## Lecture 4 (Classification)
-
-1.  
+	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/biasandvariance.png);		
+	* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/underfittingoverfitting.png);			* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/TestingSet.png)	;				* ![](https://github.com/zarjun/Motivated-Learning/blob/main/NTU-Lhy-machine%20learning/picture/validation.png)	;			
