@@ -1,9 +1,9 @@
-- [Lecture 1  		(equations/column picture/matrix)](#lecture-1)
-- [Lecture 2  		(back-substitution/elimination/multiplication)](#lecture-2)
-- [Lecture 3		(multiple/inverse)](#lecture-3)
+- [Lecture 1(equations/column picture/matrix)](#lecture-1)
+- [Lecture 2(back-substitution/elimination/multiplication)](#lecture-2)
+- [Lecture 3(multiple/inverse)](#lecture-3)
 
 
-## Lecture 1 (equations/column picture/matrix) ##   
+## Lecture 1 ## 
 
 Teacher：Professor Gilbert Strang  
 Text: Introduction to Liner Algebra  
@@ -42,7 +42,7 @@ Example two: (three by three system)
 * Each row multiply a column (dot product);  
 
 
-## Lecture 2 (back-substitution/elimination(消元法)/multiplication) ##    
+## Lecture 2 ##
 
 Test:Elimination to solve equation
 
