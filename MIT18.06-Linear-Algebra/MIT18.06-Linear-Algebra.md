@@ -51,15 +51,15 @@ Test:Elimination to solve equation
 * Matrix multiplication
 
 Ax=b example  
-![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix1.png) Matrix A                         
+![](https://github.com/zarjun/Motivated-Learning/blob/main/MIT18.06-Linear-Algebra/picture/matrix1.png) Matrix A                         
      
 **Matrix operation**
 
-![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix2.png)
+![](https://github.com/zarjun/Motivated-Learning/blob/main/MIT18.06-Linear-Algebra/picture/matrix2.png)
 
 **Matrix operation**
 
-![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix3.png)Matrix U
+![](https://github.com/zarjun/Motivated-Learning/blob/main/MIT18.06-Linear-Algebra/picture/matrix3.png)Matrix U
 
 * The purpose of elimination is to knock out ‘x’part;  
 * The first number of the first row(num‘1’) we call the (first)pivot;   
@@ -70,9 +70,9 @@ Ax=b example
 * Augmented matrix(has column 'b')；  
 * Back-Substitution（回代）：a simple step solving the equation in reverse order because the system is upper triangular；
 
-![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix3.png) Matrix U     
+![](https://github.com/zarjun/Motivated-Learning/blob/main/MIT18.06-Linear-Algebra/picture/matrix3.png) Matrix U     
 
-![](https://github.com/zarjun/Motivated-Learning/blob/main/picture/matrix4.png) Matrix C  
+![](https://github.com/zarjun/Motivated-Learning/blob/main/MIT18.06-Linear-Algebra/picture/matrix4.png) Matrix C  
 
 **z=-2;y=1;x=2**
 
