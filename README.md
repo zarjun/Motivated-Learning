@@ -22,3 +22,9 @@ Stay hungry stay foolish
 * Learn from [coursera.org]     
 * My Notes : [Here（Public）]()  
 * My Homework ：[Here（Private）]()
+
+## [天池龙珠计划训练营]
+* Lectures gave by Professor [Ali_Tianchi](https://tianchi.aliyun.com/)       
+* Official Exercise/Matlab/syllbus/video: [天池龙珠训练营](https://tianchi.aliyun.com/specials/promotion/aicamps?spm=5176.21852664.0.0.167d6a55m31n7F)   
+* My Notes : [Here（Public）]()  
+* My Homework ：[Here（Public）]()
